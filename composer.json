@@ -1,0 +1,10 @@
+{
+  "name": "Paystack-PHP-Sample",
+  "description": "Sample PHP Implementation of mabiola/paystack-php-lib",
+  "type": "project",
+  "require": {
+    "mabiola/paystack-php-lib": "~0.1",
+    "moontoast/math": "^1.1"
+  },
+  "license": "MIT"
+}
